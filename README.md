@@ -17,3 +17,5 @@ Note that the script makes use of the `states.tsv` file which tries to identify 
 The file `sninfo.tsv` is the result file, included just as a sample of what is supposed to come out at the other end.
 
 All required Python packages should be pretty standard, except maybe [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) (click the link for documentation and installation options).
+
+**Note** that you should have a list of the newspaper titles (or rather, their sn ids) you want to extract metadata for, this doesn't do all the papers by default.
