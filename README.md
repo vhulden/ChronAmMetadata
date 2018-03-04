@@ -19,3 +19,8 @@ The file `sninfo.tsv` is the result file, included just as a sample of what is s
 All required Python packages should be pretty standard, except maybe [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) (click the link for documentation and installation options).
 
 **Note** that you should have a list of the newspaper titles (or rather, their sn ids) you want to extract metadata for, this doesn't do all the papers by default.
+
+* Sample RDF: [https://chroniclingamerica.loc.gov/lccn/2004260421.rdf](https://chroniclingamerica.loc.gov/lccn/2004260421.rdf)
+
+* Sample about page: [https://chroniclingamerica.loc.gov/lccn/2004260421/](https://chroniclingamerica.loc.gov/lccn/2004260421/)
+
